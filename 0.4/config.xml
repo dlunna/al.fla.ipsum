@@ -1,0 +1,35 @@
+<FlippingBook>
+	<width>800</width>
+	<height>600</height>
+
+	<scaleContent>true</scaleContent>
+	<firstPage>0</firstPage>
+	<alwaysOpened> false </alwaysOpened>
+	<autoFlip> 50 </autoFlip>
+	<flipOnClick> true </flipOnClick>
+
+	<staticShadowsDepth> 1 </staticShadowsDepth>
+	<dynamicShadowsDepth> 1 </dynamicShadowsDepth>
+
+	<moveSpeed> 2 </moveSpeed>
+	<closeSpeed> 3 </closeSpeed>
+	<gotoSpeed> 30 </gotoSpeed>
+
+	<flipSound> 04.mp3 </flipSound>
+	<pageBack> 0x1C90CA </pageBack>
+
+	<loadOnDemand> true </loadOnDemand>
+	<cachePages> true </cachePages>
+
+   	<cacheSize> 4 </cacheSize>
+	<preloaderType> Progress Bar </preloaderType>
+	<userPreloaderId></userPreloaderId>
+
+	<pages>
+		<page>pages/page01.jpg</page>
+		<page>pages/page02.swf</page>
+		<page>pages/page03.jpg</page>
+		<page>pages/page04.jpg</page>
+		<page>pages/page05.jpg</page>
+	</pages>
+</FlippingBook>

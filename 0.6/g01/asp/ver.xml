@@ -1,0 +1,22 @@
+<exploracion>
+	<archivo nombre="edificio.jpg" size="3"/>
+	<archivo nombre="llama.jpg" size="3"/>
+	<archivo nombre="chanclas.jpg" size="3"/>
+	<archivo nombre="cafes.jpg" size="3"/>
+	<archivo nombre="escarabajo.jpg" size="3"/>
+	<archivo nombre="calculadora.jpg" size="3"/>
+	<archivo nombre="billar.jpg" size="8"/>
+	<archivo nombre="pizarra.jpg" size="3"/>
+	<archivo nombre="cielo.jpg" size="2"/>
+	<archivo nombre="teclado.jpg" size="3"/>
+	<archivo nombre="mantel.jpg" size="3"/>
+	<archivo nombre="pasta.jpg" size="5"/>
+	<archivo nombre="ps.jpg" size="3"/>
+	<archivo nombre="moviles.jpg" size="2"/>
+	<archivo nombre="silla.jpg" size="2"/>
+	<archivo nombre="madera.jpg" size="2"/>
+	<archivo nombre="pantones.jpg" size="3"/>
+	<archivo nombre="ave.jpg" size="3"/>
+	<archivo nombre="bones.jpg" size="2"/>
+	<archivo nombre="rollo.jpg" size="3"/>
+</exploracion>
